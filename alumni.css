@@ -1,0 +1,10 @@
+@media screen and (max-width: 1180px) {
+
+.size_reduce{
+ width: auto;
+ height: auto;
+ }
+ .margin_size{
+   margin-left: 20px;
+ }
+ }
